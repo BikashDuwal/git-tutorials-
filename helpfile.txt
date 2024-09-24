@@ -13,3 +13,9 @@ note git tracks only folders with content if the folder is empty it do not track
 eg say there are two folder source and image now if .gitkeep then that folder won't be ignored 
 even its empty 
 12 to track all files being tracked by git >> git ls-files
+13 branching 
+create branch git branch <branchname>
+access branch git checkout <branchname>
+oneliner git checkout -b <branchname>
+make changes to your code staying on bracnchname 
+come to main and merge which is a fast merge
