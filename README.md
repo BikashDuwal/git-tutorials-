@@ -1,3 +1,3 @@
 # git-tutorials-
-this repo is a jumpstart tool to git
+this repo is a jumpstart tool to git <br>
 shortcuts available
