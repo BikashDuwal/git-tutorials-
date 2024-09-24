@@ -1,0 +1,15 @@
+1 hello in this tutorial y'' revise about git
+2 ready up your files open terminal any bash or vs terminal
+3 if in bash see pwd (directory) got to respective file Mandatory
+4 enter git init then .git file appears it may be hidden if so go to setting and search for exclude untick .git 
+5 configure username and email as git config --global user.name 'xyz' amd git config --global user.email'xyz@email.com'
+6 to modify it git config -- user.name 'abd' and same for email 
+7 to delete username git config --unset user.name and same for email
+8 to see the username git config --get user.name >> latest username once check out readme.txt
+9 now all you need to do is write >> save>> add>> commit>>
+10 add all >> git add .  while add specific git add 'filename'
+11  commit syntax git commit -m ''
+note git tracks only folders with content if the folder is empty it do not tracks
+eg say there are two folder source and image now if .gitkeep then that folder won't be ignored 
+even its empty 
+12 to track all files being tracked by git >> git ls-files
