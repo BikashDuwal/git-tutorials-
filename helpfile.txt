@@ -24,3 +24,5 @@ more than one branch
 let blue n orange are two branch now they are simultaneously working 
 and modifying files if they are working on separate file then 
 there won't be issues but if they modify same file then error occurs 
+
+on line 23 l've changed something on blue channel 
