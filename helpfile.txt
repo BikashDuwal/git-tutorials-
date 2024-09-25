@@ -27,3 +27,4 @@ there won't be issues but if they modify same file then error occurs
 
 on line 23 l've changed something on blue channel 
 
+that conclude the git basics
